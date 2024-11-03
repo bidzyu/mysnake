@@ -57,7 +57,7 @@
 - [React](https://react.dev) - библиотека для создания пользовательских интерфейсов
 - [TypeScript](https://www.typescriptlang.org/docs/) - язык программирования, основанный на JavaScript
 - [Redux toolkit](https://redux-toolkit.js.org/) - библиотека для управления состоянием в приложениях на основе Redux
-- [Webpack](https://webpack.js.org) - сборщик проектов
+- [Vite](https://vite.dev/guide/) - современный сборщик проектов
 - [npm](https://www.npmjs.com) - менеджер пакетов
 
 **Стили**:
