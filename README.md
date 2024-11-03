@@ -61,7 +61,7 @@
 - [npm](https://www.npmjs.com) - менеджер пакетов
 
 **Стили**:
--[Sass](https://sass-lang.com) - CSS препроцессор.
+- [Sass](https://sass-lang.com) - CSS препроцессор.
 
 ## Скрипты
 
