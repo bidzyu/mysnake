@@ -52,16 +52,20 @@
 4. **Запустите проект в режиме разработки**:
   `npm run dev`
 
+## Используемые технологии
+**Основные**:
+- [React](https://react.dev) - библиотека для создания пользовательских интерфейсов
+- [TypeScript](https://www.typescriptlang.org/docs/) - язык программирования, основанный на JavaScript
+- [Redux toolkit](https://redux-toolkit.js.org/) - библиотека для управления состоянием в приложениях на основе Redux
+- [Vite](https://vite.dev/guide/) - современный сборщик проектов
+- [npm](https://www.npmjs.com) - менеджер пакетов
+
+**Стили**:
+-[Sass](https://sass-lang.com) - CSS препроцессор.
+
 ## Скрипты
 
 -  `npm run dev` — Запускает проект в режиме разработки с помощью Vite.
 -  `npm run build` — Компилирует проект с помощью TypeScript и создает сборку с помощью Vite.
 -  `npm run lint` — Проверяет код на наличие ошибок с помощью ESLint.
 -  `npm run preview` — Предварительный просмотр сборки проекта.
-
-## Ссылки
-
-- [Vite](https://vite.dev/guide/).
-- [React](https://react.dev).
-- [TypeScript](https://www.typescriptlang.org/docs/).
-- [Redux toolkit](https://redux-toolkit.js.org/).
